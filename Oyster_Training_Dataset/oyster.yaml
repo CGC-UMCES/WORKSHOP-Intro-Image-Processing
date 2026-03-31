@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/Workshop-Intro-Image-Processing/Oyster_Training_Dataset
+train: images/train
+val: images/val
+names:
+  0: oyster shell
